@@ -1,7 +1,19 @@
 # Space-Minesweeper
 
-Assignment from CSCI-4611: Programming Interactive Computer Graphics and Games, University of Minnesota Twin Cities.
+Assignment 1 from CSCI-4611: Programming Interactive Computer Graphics and Games, University of Minnesota Twin Cities.  
+The purpose of this game is about learning to use `Vector` in 2D graphics.
 
 ## Recommenation
 To ensure this graphic work smoothly, use `Google Chrome` or `Microsoft Edge`
 
+## Link to Github Page
+
+Use this link to play the game: https://chorkhieng.github.io/Space-Minesweeper/
+
+## Sample Scence  
+
+Ship and mines in the sky  
+![Ship in the Sky](screenshot/scene.png)
+
+Explosion in the sky when the ship collides with mine(s)
+![Explosion in the Sky](screenshot/explosion.png)
