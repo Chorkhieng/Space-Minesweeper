@@ -1,6 +1,4 @@
-# Space-Minesweeper
-
-Assignment 1 from CSCI-4611: Programming Interactive Computer Graphics and Games, University of Minnesota Twin Cities.  
+# Space-Minesweeper   
 The purpose of this game is about learning to use `Vector` in 2D graphics.
 
 ## Recommendation
